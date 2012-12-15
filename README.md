@@ -1,5 +1,5 @@
 Brazilian Portuguese (pt_BR) for aC3
-================================
+-------------------------
 
 This is the pt_BR (utf8) xml for translating activeCollab 3.
 Tested until version 3.1.18.
